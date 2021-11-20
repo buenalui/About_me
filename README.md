@@ -13,3 +13,5 @@ I chose FinTech because Finance is such a huge industry and the integration of t
 *[Code](Code)*
 
 *[References](References)*
+
+*[Image](Image)*
